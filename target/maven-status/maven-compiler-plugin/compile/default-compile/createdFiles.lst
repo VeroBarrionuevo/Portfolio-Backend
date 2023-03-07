@@ -2,7 +2,6 @@ com\portfolio\BV\Security\Service\UserDetailsImpl.class
 com\portfolio\BV\Security\Dto\NuevoUsuario.class
 com\portfolio\BV\Security\Entity\UsuarioPrincipal.class
 com\portfolio\BV\Service\ImpPersonaService.class
-com\portfolio\BV\Interface\IPersonaService.class
 com\portfolio\BV\BVApplication.class
 com\portfolio\BV\Security\Entity\Usuario.class
 com\portfolio\BV\Repository\Rhys.class
