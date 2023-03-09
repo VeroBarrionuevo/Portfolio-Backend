@@ -12,6 +12,7 @@ com\portfolio\BV\Security\Dto\LoginUsuario.class
 com\portfolio\BV\Security\Enums\RolNombre.class
 com\portfolio\BV\Controller\CEducacion.class
 com\portfolio\BV\Repository\RExperiencia.class
+com\portfolio\BV\WebConfig.class
 com\portfolio\BV\Security\jwt\JwtProvider.class
 com\portfolio\BV\Security\Entity\Rol.class
 com\portfolio\BV\Security\Controller\AuthController.class
